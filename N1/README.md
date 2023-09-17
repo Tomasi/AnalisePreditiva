@@ -16,7 +16,7 @@ No modelo orientado a documentos, assim como no modelo relacional, os dados são
 
 Para realizar exemplos de manipulação de dados usando o MongoDB, você pode aproveitar o serviço de nuvem MongoDB Atlas. Este serviço oferece planos e assinaturas variados, mas também disponibiliza um plano gratuito, ideal para fins de teste e estudo.
 
-Para obter informações detalhadas sobre como configurar a autenticação e começar a usar o MongoDB Atlas, você pode seguir o tutorial fornecido neste link: (tutorial)[https://blog.cod3r.com.br/como-utilizar-mongodb-atlas/].
+Para obter informações detalhadas sobre como configurar a autenticação e começar a usar o MongoDB Atlas, você pode seguir o tutorial fornecido neste link: [Tutorial](https://blog.cod3r.com.br/como-utilizar-mongodb-atlas/).
 
 Farei uma integração com o visual studio usando a própria extensão do MongoDB.
 
