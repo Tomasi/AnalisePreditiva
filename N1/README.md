@@ -36,3 +36,7 @@ Farei uma integração com o visual studio usando a própria extensão do MongoD
 
 ![Alt text](image-3.png)
 
+# Data Lake
+
+Domínio de problema para data lake [População de veículos elétricos no EUA](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
