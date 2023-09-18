@@ -41,3 +41,6 @@ Farei uma integração com o visual studio usando a própria extensão do MongoD
 - Domínio de problema para data lake [População de veículos elétricos no EUA](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 - Software para repositório dos dados [MinIO](https://min.io/download#/docker)
 
+## Dados em Backet
+
+![image](https://github.com/Tomasi/AnalisePreditiva/assets/61890715/0b2d9173-3740-4f2c-8df0-10bd9fbd9e0b)
