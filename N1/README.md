@@ -12,6 +12,9 @@ O modelo orientado a documentos é um paradigma de modelagem de dados usado em b
 
 No modelo orientado a documentos, assim como no modelo relacional, os dados são organizados em "bancos de dados". No entanto, é aqui que começam a surgir algumas diferenças significativas. Enquanto no modelo relacional as entidades são representadas como "tabelas", com cada tabela contendo colunas que têm definições específicas, no modelo orientado a documentos, as entidades são referidas como "coleções" e cada unidade de dados dentro de uma coleção é chamada de "documento". Em vez de colunas, os documentos têm "atributos" que podem conter diferentes tipos de dados.
 
+![Uploading relational_vs_doc1.png…]()
+
+
 # Exemplo
 
 Para realizar exemplos de manipulação de dados usando o MongoDB, você pode aproveitar o serviço de nuvem MongoDB Atlas. Este serviço oferece planos e assinaturas variados, mas também disponibiliza um plano gratuito, ideal para fins de teste e estudo.
