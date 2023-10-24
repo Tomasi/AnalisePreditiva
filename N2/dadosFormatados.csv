@@ -1,0 +1,747 @@
+﻿vin_1_10,state,city,county,ev_type,make,model,Sum of model_year
+1C4JJXN68P,WA,Bremerton,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2023
+1C4JJXP65M,WA,Battle Ground,Clark,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4JJXP67N,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2022
+1C4JJXP68M,WA,Medina,King,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4JJXP68N,WA,Kelso,Cowlitz,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2022
+1C4JJXP69M,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4JJXP6XN,WA,Port Orchard,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2022
+1C4JJXR61M,WA,Maple Valley,King,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4JJXR62M,WA,Lacey,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4JJXR66M,WA,Camas,Clark,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2021
+1C4RJXN67R,WA,Port Orchard,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,WRANGLER,2024
+1C4RJYC61P,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,GRAND CHEROKEE,2023
+1C4RJYC64N,WA,Lake Stevens,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),JEEP,GRAND CHEROKEE,2022
+1FADP3R4XG,WA,Kirkland,King,Battery Electric Vehicle (BEV),FORD,FOCUS,2016
+1FADP5CU1D,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2013
+1FADP5CU3D,WA,Port Townsend,Jefferson,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2013
+1FADP5CU4D,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2013
+1FADP5CU4G,WA,Poulsbo,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2016
+1FADP5CU5E,WA,Oak Harbor,Island,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2014
+1FADP5CUXD,WA,Yakima,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2013
+1FADP5CUXG,WA,Kirkland,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2016
+1FADP5EU7H,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,C-MAX,2017
+1FMCU0E19P,WA,Bremerton,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),FORD,ESCAPE,2023
+1FMCU0EZXN,WA,Moxee,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),FORD,ESCAPE,2022
+1FMCU0LZ9N,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),FORD,ESCAPE,2022
+1FT6W1EV5N,WA,Kirkland,King,Battery Electric Vehicle (BEV),FORD,F-150,2022
+1FTBW1YK1N,WA,Seattle,King,Battery Electric Vehicle (BEV),FORD,TRANSIT,2022
+1FTBW9CK2P,WA,Kent,King,Battery Electric Vehicle (BEV),FORD,TRANSIT,2023
+1FTVW1EV6P,WA,Bremerton,Kitsap,Battery Electric Vehicle (BEV),FORD,F-150,2023
+1FTZR1078W,WA,Sequim,Clallam,Battery Electric Vehicle (BEV),FORD,RANGER,1998
+1G1FW6S00H,WA,Seabeck,Kitsap,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FW6S00J,WA,Battle Ground,Clark,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2018
+1G1FW6S00P,WA,Port Orchard,Kitsap,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FW6S01H,WA,Port Orchard,Kitsap,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FW6S02J,WA,Kelso,Cowlitz,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2018
+1G1FW6S02N,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2022
+1G1FW6S03H,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FW6S03J,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2018
+1G1FW6S05L,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2020
+1G1FW6S09P,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FW6S0XP,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FX6S00N,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2022
+1G1FX6S01J,WA,Rainier,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2018
+1G1FX6S02H,WA,Issaquah,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FX6S03H,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FX6S04H,WA,Shoreline,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FX6S06H,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FX6S06P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FX6S07P,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FX6S0XH,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2017
+1G1FX6S0XP,WA,Burien,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2023
+1G1FY6S00K,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FY6S01M,WA,Bellevue,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2021
+1G1FY6S03K,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FY6S03P,WA,Woodinville,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EUV,2023
+1G1FY6S04K,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FY6S05K,WA,Bremerton,Kitsap,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FY6S07K,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FY6S07P,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EUV,2023
+1G1FY6S08L,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2020
+1G1FY6S0XK,WA,Seattle,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FZ6S00K,WA,Bellevue,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2019
+1G1FZ6S00M,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2021
+1G1FZ6S01N,WA,Burien,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2022
+1G1FZ6S08N,WA,Yelm,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2022
+1G1FZ6S09L,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2020
+1G1FZ6S09N,WA,Sammamish,King,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2022
+1G1FZ6S0XL,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),CHEVROLET,BOLT EV,2020
+1G1RA6E47C,WA,Edmonds,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2012
+1G1RA6E49D,WA,Oak Harbor,Island,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2013
+1G1RA6S54H,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RA6S57J,WA,Bremerton,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2018
+1G1RA6S59H,WA,Port Angeles,Clallam,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RA6S5XJ,WA,Burien,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2018
+1G1RB6S50J,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2018
+1G1RB6S52J,WA,Snoqualmie,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2018
+1G1RB6S5XH,WA,Soap Lake,Grant,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RC6E41C,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2012
+1G1RC6E49B,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2011
+1G1RC6S52K,WA,Redmond,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2019
+1G1RC6S53J,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2018
+1G1RC6S55H,WA,Lake Stevens,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RC6S58H,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RC6S59G,WA,Ridgefield,Clark,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2016
+1G1RD6E41F,WA,Kent,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2015
+1G1RD6E43E,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2014
+1G1RD6E49D,WA,Washougal,Clark,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2013
+1G1RD6S53H,WA,Chewelah,Stevens,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2017
+1G1RE6E4XE,WA,Lynnwood,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),CHEVROLET,VOLT,2014
+1GYKPMRLXR,WA,Kalama,Cowlitz,Battery Electric Vehicle (BEV),CADILLAC,LYRIQ,2024
+1N4AZ0CP0E,WA,Sammamish,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CP0F,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP0G,WA,Kenmore,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4AZ0CP1D,WA,Edmonds,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP1F,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP2D,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP2E,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CP2F,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP2G,WA,Bellevue,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4AZ0CP3D,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP3F,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP4D,WA,Toppenish,Yakima,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP4E,WA,Tumwater,Thurston,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CP4F,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP5F,WA,Des Moines,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP6D,WA,Shoreline,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP6E,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CP6F,WA,Kirkland,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP7D,WA,Shoreline,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP7E,WA,Bothell,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CP7F,WA,Camas,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP8D,WA,Bellevue,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CP8F,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ0CP9E,WA,Sammamish,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2014
+1N4AZ0CPXD,WA,Kirkland,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2013
+1N4AZ0CPXF,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),NISSAN,LEAF,2015
+1N4AZ1BP1L,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),NISSAN,LEAF,2020
+1N4AZ1BV1P,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2023
+1N4AZ1BV2M,WA,Port Townsend,Jefferson,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4AZ1BV2N,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4AZ1BV2P,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2023
+1N4AZ1BV4M,WA,Auburn,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4AZ1CP0J,WA,Spokane,Spokane,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP0K,WA,Vashon,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CP1J,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP2K,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CP3J,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP3K,WA,Bellevue,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CP5J,WA,Shoreline,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP5K,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CP7J,WA,Brier,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP7K,WA,Burlington,Skagit,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CP9J,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2018
+1N4AZ1CP9L,WA,Dupont,Pierce,Battery Electric Vehicle (BEV),NISSAN,LEAF,2020
+1N4AZ1CPXK,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4AZ1CV0N,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4AZ1CV5M,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4AZ1CV8N,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4BZ0CP1G,WA,Redmond,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ0CP2G,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ0CP2H,WA,Redmond,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2017
+1N4BZ0CP3G,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ0CP3H,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2017
+1N4BZ0CP5H,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),NISSAN,LEAF,2017
+1N4BZ0CP7H,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2017
+1N4BZ0CP8G,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ0CP9G,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ0CPXG,WA,Marysville,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2016
+1N4BZ1BP9L,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2020
+1N4BZ1BV2N,WA,Port Angeles,Clallam,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4BZ1BV4M,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4BZ1BV6M,WA,Bothell,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4BZ1CP2L,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2020
+1N4BZ1CP4K,WA,Shoreline,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4BZ1CP7K,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4BZ1CP9K,WA,Burien,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4BZ1CPXK,WA,Nordland,Jefferson,Battery Electric Vehicle (BEV),NISSAN,LEAF,2019
+1N4BZ1CV1N,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4BZ1CV6N,WA,Shoreline,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4BZ1CV7N,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1N4BZ1CV8M,WA,Ridgefield,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4BZ1DV7M,WA,Camas,Clark,Battery Electric Vehicle (BEV),NISSAN,LEAF,2021
+1N4BZ1DV8N,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2022
+1V2CMPE83P,WA,Woodland,Cowlitz,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2DNPE81P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2DNPE83P,WA,Lake Stevens,Snohomish,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2FMPE81P,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2FMPE87P,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2GNPE82P,WA,Redmond,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+1V2GNPE85P,WA,Bellevue,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2023
+2C4RC1H72K,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2019
+2C4RC1H74J,WA,Camas,Clark,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2018
+2C4RC1L70P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1L71P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1L72P,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1L73P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1L77N,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2022
+2C4RC1L77P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1L78N,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2022
+2C4RC1L79P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2C4RC1N71L,WA,Kirkland,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2020
+2C4RC1N74J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2018
+2C4RC1S72M,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2021
+2C4RC1S73P,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),CHRYSLER,PACIFICA,2023
+2T3YL4DV8D,WA,Spokane,Spokane,Battery Electric Vehicle (BEV),TOYOTA,RAV4,2013
+2T3YL4DVXC,WA,Seattle,King,Battery Electric Vehicle (BEV),TOYOTA,RAV4,2012
+3C3CFFGE0G,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),FIAT,500,2016
+3C3CFFGE2E,WA,Shoreline,King,Battery Electric Vehicle (BEV),FIAT,500,2014
+3C3CFFGE5H,WA,Seattle,King,Battery Electric Vehicle (BEV),FIAT,500,2017
+3C3CFFGE6F,WA,Shoreline,King,Battery Electric Vehicle (BEV),FIAT,500,2015
+3C3CFFGE8D,WA,Bellevue,King,Battery Electric Vehicle (BEV),FIAT,500,2013
+3C3CFFGE9H,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),FIAT,500,2017
+3FA6P0PU3F,WA,Lake Forest Park,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2015
+3FA6P0PU3J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2018
+3FA6P0PU4E,WA,Federal Way,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2014
+3FA6P0PU4F,WA,Spokane,Spokane,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2015
+3FA6P0PU7G,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2016
+3FA6P0PU9J,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2018
+3FA6P0SU1H,WA,Oak Harbor,Island,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2017
+3FA6P0SU2E,WA,Battle Ground,Clark,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2014
+3FA6P0SU4E,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2014
+3FA6P0SU6G,WA,Easton,Kittitas,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2016
+3FA6P0SU6K,WA,Federal Way,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2019
+3FA6P0SU9H,WA,Lacey,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2017
+3FA6P0SUXJ,WA,College Place,Walla Walla,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2018
+3FA6P0WU7L,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),FORD,FUSION,2020
+3FMTK1RM9M,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK1SS0P,WA,Lake Forest Park,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK2R79N,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2022
+3FMTK2SU0P,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK2SU9P,WA,Lake Stevens,Snohomish,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK3SS2M,WA,Seattle,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK3SS3M,WA,Stanwood,Snohomish,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK3SU1N,WA,Ridgefield,Clark,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2022
+3FMTK3SU2P,WA,Redmond,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK3SU3M,WA,Ridgefield,Clark,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK3SU4M,WA,Duvall,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK3SU5N,WA,Burien,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2022
+3FMTK3SU8P,WA,Tukwila,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK3SU9M,WA,Seattle,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK3SU9P,WA,Issaquah,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3FMTK4SE3N,WA,Federal Way,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2022
+3FMTK4SE7M,WA,Snoqualmie,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2021
+3FMTK4SX1P,WA,Shoreline,King,Battery Electric Vehicle (BEV),FORD,MUSTANG MACH-E,2023
+3MW5P9J00N,WA,Maple Valley,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,330E,2022
+4JGDA6DB0J,WA,Lake Forest Park,King,Plug-in Hybrid Electric Vehicle (PHEV),MERCEDES-BENZ,GLE-CLASS,2018
+4JGGM1CB2P,WA,Seattle,King,Battery Electric Vehicle (BEV),MERCEDES-BENZ,EQE-CLASS SUV,2023
+55SWF4HB5J,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),MERCEDES-BENZ,C-CLASS,2018
+5UX43EU01R,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2024
+5UX43EU02R,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2024
+5UX43EU03R,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2024
+5UX43EU0XR,WA,Camas,Clark,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2024
+5UXKT0C30H,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2017
+5UXKT0C31H,WA,Oak Harbor,Island,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2017
+5UXKT0C36H,WA,Redmond,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2017
+5UXKT0C50J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2018
+5UXKT0C53G,WA,Lacey,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2016
+5UXKT0C53H,WA,Kirkland,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2017
+5UXKT0C59G,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2016
+5UXTA6C01N,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTA6C01P,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2023
+5UXTA6C02N,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTA6C03P,WA,Camas,Clark,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2023
+5UXTA6C04M,WA,Redmond,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2021
+5UXTA6C04N,WA,Bremerton,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTA6C04P,WA,Kirkland,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2023
+5UXTA6C05N,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTA6C05P,WA,Yakima,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2023
+5UXTA6C07M,WA,Redmond,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2021
+5UXTA6C07P,WA,Normandy Park,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2023
+5UXTA6C08M,WA,Bothell,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2021
+5UXTA6C08N,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTA6C0XN,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X5,2022
+5UXTS1C01L,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,X3,2020
+5YJ3E1EA0J,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA0M,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA0N,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EA0P,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA1J,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA1K,WA,Edmonds,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA1L,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA1M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA1P,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA2K,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA2L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA2M,WA,Black Diamond,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA2P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA3J,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA3L,WA,Oak Harbor,Island,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA3P,WA,Seatac,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA4J,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA4K,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA4M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA4P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA5J,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA5K,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA5P,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA6J,WA,Coupeville,Island,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA6K,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA6L,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA6P,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA7J,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA7K,WA,Moses Lake,Grant,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA7M,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA7N,WA,Camano Island,Island,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EA7P,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA8J,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA8K,WA,Issaquah,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA8L,WA,Mercer Island,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA8P,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EA9J,WA,Monroe,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EA9K,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EA9L,WA,Silverdale,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EA9M,WA,Medina,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EA9N,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EA9P,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EAXJ,WA,Issaquah,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EAXK,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EAXN,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EAXP,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EB0J,WA,Bothell,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB0K,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB0L,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB0N,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB1J,WA,Freeland,Island,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB1K,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB1L,WA,Quincy,Grant,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB1M,WA,Duvall,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB1N,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB1P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EB2J,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB2K,WA,Bothell,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB2L,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB2N,WA,Shoreline,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB3J,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB3L,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB3M,WA,Federal Way,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB4J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB4K,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB4L,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB4N,WA,Tukwila,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB5J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB5K,WA,Suquamish,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB5M,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB5N,WA,Federal Way,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB6J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB6K,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB6L,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB6M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB6N,WA,Camano Island,Island,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB7J,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB7K,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB7L,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB7M,WA,Mercer Island,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB7N,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EB7P,WA,Zillah,Yakima,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EB8J,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB8K,WA,Shoreline,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB8L,WA,Edmonds,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB8M,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB8P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EB9J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EB9K,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2019
+5YJ3E1EB9L,WA,Tenino,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EB9M,WA,Lacey,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EB9P,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EBXJ,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2018
+5YJ3E1EBXL,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EBXM,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2021
+5YJ3E1EBXN,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1EC2L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EC2P,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EC5P,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EC6L,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EC6P,WA,Auburn,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EC7L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EC7P,WA,Lake Stevens,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EC8P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJ3E1EC9L,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2020
+5YJ3E1EC9N,WA,Seabeck,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2022
+5YJ3E1ECXP,WA,Duvall,King,Battery Electric Vehicle (BEV),TESLA,MODEL 3,2023
+5YJRE1A32A,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,ROADSTER,2010
+5YJSA1AC7D,WA,Lake Stevens,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2013
+5YJSA1CG2D,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2013
+5YJSA1CG6D,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2013
+5YJSA1DN1D,WA,Enumclaw,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2013
+5YJSA1DP3C,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2012
+5YJSA1E11H,WA,Olalla,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E14H,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E18G,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2016
+5YJSA1E20F,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),TESLA,MODEL S,2015
+5YJSA1E20J,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E21H,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E21K,WA,Woodinville,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2019
+5YJSA1E22F,WA,Silverdale,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL S,2015
+5YJSA1E22H,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E23J,WA,Auburn,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E23K,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2019
+5YJSA1E24F,WA,Lake Forest Park,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2015
+5YJSA1E24G,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2016
+5YJSA1E24L,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2020
+5YJSA1E25J,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E25K,WA,Auburn,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2019
+5YJSA1E26H,WA,Manson,Chelan,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E26J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E27H,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E27J,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E28H,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E28J,WA,Monroe,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E29H,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E29J,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E29L,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2020
+5YJSA1E2XG,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL S,2016
+5YJSA1E2XH,IN,Fort Wayne,Allen,Battery Electric Vehicle (BEV),TESLA,MODEL S,2017
+5YJSA1E2XJ,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E2XK,WA,Woodinville,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2019
+5YJSA1E41G,WA,Kenmore,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2016
+5YJSA1E41J,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E44J,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E47J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2018
+5YJSA1E4XG,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2016
+5YJSA1E50N,WA,Woodinville,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2022
+5YJSA1E63N,WA,Newcastle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2022
+5YJSA1E65N,WA,Burien,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2022
+5YJSA1H17E,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2014
+5YJSA1H20E,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2014
+5YJSA1S14E,WA,Federal Way,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2014
+5YJSA1S15E,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2014
+5YJSA1S28F,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL S,2015
+5YJSA1S2XF,WA,Clinton,Island,Battery Electric Vehicle (BEV),TESLA,MODEL S,2015
+5YJXCAE21G,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2016
+5YJXCAE23J,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCAE25G,WA,Tumwater,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL X,2016
+5YJXCAE28H,WA,Silverdale,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL X,2017
+5YJXCAE29G,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2016
+5YJXCBE20J,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCBE20K,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL X,2019
+5YJXCBE23J,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCBE27L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2020
+5YJXCBE28G,WA,Newcastle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2016
+5YJXCBE28H,WA,Tumwater,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL X,2017
+5YJXCBE28J,WA,Hunts Point,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCBE29G,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL X,2016
+5YJXCBE29J,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCBE2XJ,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2018
+5YJXCDE21H,WA,Hunts Point,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2017
+5YJXCDE21L,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL X,2020
+5YJXCDE22H,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2017
+5YJYGAEE1M,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGAEE6M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGAEE7M,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGAEE8M,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE0L,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE0M,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE1L,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE1M,WA,Burien,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE2L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE2M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE3M,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE4M,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE5M,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE6L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE6M,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE7L,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE7M,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE8L,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE8M,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEE9L,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEE9M,WA,Brush Prairie,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEEXL,WA,Brush Prairie,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEF0L,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEF2M,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2021
+5YJYGDEF5L,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+5YJYGDEFXL,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2020
+7FCTGAAA0N,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2022
+7FCTGAAA3N,WA,Kent,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2022
+7FCTGAAA4N,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2022
+7FCTGAAA7P,WA,Bellevue,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2023
+7FCTGAAA9N,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2022
+7FCTGAAL2N,WA,Kenmore,King,Battery Electric Vehicle (BEV),RIVIAN,R1T,2022
+7JRH60FWXP,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,S60,2023
+7PDSGABA4P,WA,Issaquah,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABA6P,WA,Kirkland,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABA7P,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABA8P,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABA9P,WA,Kirkland,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABAXP,WA,Bellevue,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABL0P,WA,Seattle,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2023
+7PDSGABL1N,WA,Bellevue,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2022
+7PDSGABL4N,WA,Kirkland,King,Battery Electric Vehicle (BEV),RIVIAN,R1S,2022
+7SAXCAE52P,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCAE56P,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCAE58N,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE54P,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCBE55N,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE58N,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE5XP,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCBE60N,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE60P,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCBE62P,WA,Marysville,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCBE64P,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCBE65N,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE6XN,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCBE6XP,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCDE55N,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2022
+7SAXCDE56P,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAXCDE59P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL X,2023
+7SAYGAEE0P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE1N,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGAEE1P,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE2N,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGAEE2P,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE3P,WA,Kelso,Cowlitz,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE4N,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGAEE5P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE7P,WA,Issaquah,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEE8N,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGAEE8P,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGAEEXN,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE0P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE1N,WA,Maple Valley,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE1P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE2N,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE2P,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE3N,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE3P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE4N,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE4P,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE5N,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE5P,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE6N,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE6P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE7N,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE7P,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE8N,WA,Redmond,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE8P,WA,Kirkland,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEE9N,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEE9P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEEXN,WA,Federal Way,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEEXP,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEF0N,WA,Lynnwood,Snohomish,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF1P,WA,Kent,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEF2N,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF3N,WA,Sammamish,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF3P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEF4N,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF5N,WA,Newcastle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF5P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEF7N,WA,Mercer Island,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF8N,WA,Renton,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2022
+7SAYGDEF8P,WA,Bellevue,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEF9P,WA,Colville,Stevens,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+7SAYGDEFXP,WA,Seattle,King,Battery Electric Vehicle (BEV),TESLA,MODEL Y,2023
+JA3215H18C,WA,Mukilteo,Snohomish,Battery Electric Vehicle (BEV),MITSUBISHI,I-MIEV,2012
+JA4J24A57J,WA,Yelm,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2018
+JA4J24A58J,WA,Auburn,King,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2018
+JA4J24A5XL,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2020
+JA4J2VA78N,WA,Centralia,Lewis,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2022
+JA4T5UA90P,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2023
+JA4T5UA93P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2023
+JA4T5UA96P,WA,Tukwila,King,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2023
+JA4T5VA93P,WA,Des Moines,King,Plug-in Hybrid Electric Vehicle (PHEV),MITSUBISHI,OUTLANDER,2023
+JF2GTDNC5K,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),SUBARU,CROSSTREK,2019
+JHMZC5F32J,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),HONDA,CLARITY,2018
+JHMZC5F33K,WA,Washougal,Clark,Plug-in Hybrid Electric Vehicle (PHEV),HONDA,CLARITY,2019
+JM3KKEHA3R,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),MAZDA,CX-90,2024
+JN1AF0BA0P,WA,Yakima,Yakima,Battery Electric Vehicle (BEV),NISSAN,ARIYA,2023
+JN1AZ0CP0C,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CP1C,WA,Nordland,Jefferson,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CP2C,WA,Des Moines,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CP3C,WA,Mercer Island,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CP4B,WA,Auburn,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2011
+JN1AZ0CP5B,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2011
+JN1AZ0CP6B,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),NISSAN,LEAF,2011
+JN1AZ0CP7C,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CP8B,WA,Seattle,King,Battery Electric Vehicle (BEV),NISSAN,LEAF,2011
+JN1AZ0CP9C,WA,Cheney,Spokane,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JN1AZ0CPXC,WA,Silverdale,Kitsap,Battery Electric Vehicle (BEV),NISSAN,LEAF,2012
+JTDKARFP0H,WA,Des Moines,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP1J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2018
+JTDKARFP2H,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP3H,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP4H,WA,Auburn,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP5J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2018
+JTDKARFP6L,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2020
+JTDKARFP8H,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP8K,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2019
+JTDKARFP9H,WA,Black Diamond,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFP9J,WA,Bothell,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2018
+JTDKARFP9K,WA,Yelm,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2019
+JTDKARFPXH,WA,Camano Island,Island,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2017
+JTDKARFPXJ,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PRIME,2018
+JTDKN3DP1E,WA,Lynnwood,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PLUG-IN,2014
+JTDKN3DP9C,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PLUG-IN,2012
+JTDKN3DP9E,WA,Maple Valley,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,PRIUS PLUG-IN,2014
+JTJAAAAB4P,WA,Bellevue,King,Battery Electric Vehicle (BEV),LEXUS,RZ 450E,2023
+JTJAAAAB5P,WA,Renton,King,Battery Electric Vehicle (BEV),LEXUS,RZ 450E,2023
+JTJAAAAB8P,WA,Kent,King,Battery Electric Vehicle (BEV),LEXUS,RZ 450E,2023
+JTJHKCFZ3R,WA,Ridgefield,Clark,Plug-in Hybrid Electric Vehicle (PHEV),LEXUS,NX,2024
+JTMAB3FV0M,WA,Kirkland,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2021
+JTMAB3FV3M,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2021
+JTMAB3FV5M,WA,Enumclaw,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2021
+JTMABABA2P,WA,Tukwila,King,Battery Electric Vehicle (BEV),SUBARU,SOLTERRA,2023
+JTMABABA7P,WA,Tukwila,King,Battery Electric Vehicle (BEV),SUBARU,SOLTERRA,2023
+JTMEB3FV0N,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2022
+JTMEB3FV4M,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2021
+JTMEB3FV6N,WA,Camas,Clark,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2022
+JTMFB3FV0M,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),TOYOTA,RAV4 PRIME,2021
+KL8CK6S04F,WA,Palouse,Whitman,Battery Electric Vehicle (BEV),CHEVROLET,SPARK,2015
+KL8CL6S06E,WA,Bellevue,King,Battery Electric Vehicle (BEV),CHEVROLET,SPARK,2014
+KM8JFDA22N,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,TUCSON,2022
+KM8JFDA2XP,WA,La Center,Clark,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,TUCSON,2023
+KM8K23AGXP,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K33AG0P,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K33AG1K,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),HYUNDAI,KONA,2019
+KM8K33AG1L,WA,Renton,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA,2020
+KM8K33AG2N,WA,Seattle,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2022
+KM8K33AG5P,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K33AG6P,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K33AG9P,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K33AGXP,WA,Tukwila,King,Battery Electric Vehicle (BEV),HYUNDAI,KONA ELECTRIC,2023
+KM8K53AG8L,WA,Brush Prairie,Clark,Battery Electric Vehicle (BEV),HYUNDAI,KONA,2020
+KM8KMDAF5P,WA,Seattle,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KMDAF7N,WA,Seattle,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2022
+KM8KNDAF1P,WA,Yelm,Thurston,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KNDAF2P,WA,Kirkland,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KRDAF0P,WA,Kirkland,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KRDAF1P,WA,Olalla,Kitsap,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KRDAF6P,WA,Bellevue,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KRDAF9P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8KRDAFXP,WA,Seatac,King,Battery Electric Vehicle (BEV),HYUNDAI,IONIQ 5,2023
+KM8S6DA21N,WA,Arlington,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,SANTA FE,2022
+KM8S7DA23P,WA,Lake Forest Park,King,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,SANTA FE,2023
+KM8S7DA25P,WA,Ridgefield,Clark,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,SANTA FE,2023
+KM8S7DA2XP,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,SANTA FE,2023
+KMHE54L27G,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),HYUNDAI,SONATA,2016
+KMTGE4S1XP,WA,Tukwila,King,Battery Electric Vehicle (BEV),GENESIS,G80,2023
+KMUKEDTB6P,WA,Shoreline,King,Battery Electric Vehicle (BEV),GENESIS,GV60,2023
+KNAGV4LD8K,WA,Yakima,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),KIA,OPTIMA,2019
+KNDC34LA8P,WA,Monroe,Snohomish,Battery Electric Vehicle (BEV),KIA,EV6,2023
+KNDC3DLC7P,WA,Pullman,Whitman,Battery Electric Vehicle (BEV),KIA,EV6,2023
+KNDC3DLC8P,WA,Shoreline,King,Battery Electric Vehicle (BEV),KIA,EV6,2023
+KNDC3DLCXN,WA,North Bend,King,Battery Electric Vehicle (BEV),KIA,EV6,2022
+KNDC4DLC6N,WA,Seattle,King,Battery Electric Vehicle (BEV),KIA,EV6,2022
+KNDC4DLC9P,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),KIA,EV6,2023
+KNDCC3LD5J,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),KIA,NIRO,2018
+KNDCC3LD5M,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),KIA,NIRO,2021
+KNDCC3LG0L,WA,Seattle,King,Battery Electric Vehicle (BEV),KIA,NIRO,2020
+KNDCC3LG8N,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),KIA,NIRO,2022
+KNDCD3LD8L,WA,Yakima,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),KIA,NIRO,2020
+KNDCD3LDXN,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),KIA,NIRO,2022
+KNDCE3LG1K,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),KIA,NIRO,2019
+KNDCE3LG4N,WA,Maple Valley,King,Battery Electric Vehicle (BEV),KIA,NIRO,2022
+KNDCE3LG7K,WA,Black Diamond,King,Battery Electric Vehicle (BEV),KIA,NIRO,2019
+KNDCE3LGXN,WA,Maple Valley,King,Battery Electric Vehicle (BEV),KIA,NIRO,2022
+KNDCR3L16P,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),KIA,NIRO,2023
+KNDCR3LF2P,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),KIA,NIRO,2023
+KNDCT3L11P,WA,Seattle,King,Battery Electric Vehicle (BEV),KIA,NIRO,2023
+KNDCT3L18P,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),KIA,NIRO,2023
+KNDJX3AE1G,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),KIA,SOUL,2016
+KNDJX3AE2G,WA,Kirkland,King,Battery Electric Vehicle (BEV),KIA,SOUL,2016
+KNDJX3AE6G,WA,Kirkland,King,Battery Electric Vehicle (BEV),KIA,SOUL,2016
+KNDJX3AE7H,WA,Oak Harbor,Island,Battery Electric Vehicle (BEV),KIA,SOUL EV,2017
+KNDJX3AE8J,WA,Issaquah,King,Battery Electric Vehicle (BEV),KIA,SOUL EV,2018
+KNDJX3AE9H,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),KIA,SOUL EV,2017
+KNDJX3AEXJ,WA,Kenmore,King,Battery Electric Vehicle (BEV),KIA,SOUL EV,2018
+KNDPZDAH1P,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),KIA,SPORTAGE,2023
+KNDRMDLH2N,WA,Bothell,King,Plug-in Hybrid Electric Vehicle (PHEV),KIA,SORENTO,2022
+KNDRMDLH5N,WA,North Bend,King,Plug-in Hybrid Electric Vehicle (PHEV),KIA,SORENTO,2022
+LPSED3KA0N,WA,Seattle,King,Battery Electric Vehicle (BEV),POLESTAR,PS2,2022
+LPSED3KA6M,WA,Monroe,Snohomish,Battery Electric Vehicle (BEV),POLESTAR,PS2,2021
+LPSED3KA8N,WA,Mercer Island,King,Battery Electric Vehicle (BEV),POLESTAR,PS2,2022
+LPSED3KAXN,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),POLESTAR,PS2,2022
+SADHB2S1XK,WA,Seattle,King,Battery Electric Vehicle (BEV),JAGUAR,I-PACE,2019
+SADHD2S13K,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),JAGUAR,I-PACE,2019
+SADHD2S16K,WA,Kirkland,King,Battery Electric Vehicle (BEV),JAGUAR,I-PACE,2019
+SADHD2S19K,WA,Renton,King,Battery Electric Vehicle (BEV),JAGUAR,I-PACE,2019
+SALWR2RY2L,WA,Woodinville,King,Plug-in Hybrid Electric Vehicle (PHEV),LAND ROVER,RANGE ROVER SPORT,2020
+W1N0G5DB1L,WA,Yakima,Yakima,Plug-in Hybrid Electric Vehicle (PHEV),MERCEDES-BENZ,GLC-CLASS,2020
+WA16AAGE6R,WA,Bothell,King,Battery Electric Vehicle (BEV),AUDI,Q8,2024
+WA1AAAGE6N,WA,Bellevue,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2022
+WA1BCBFZ7P,WA,Seattle,King,Battery Electric Vehicle (BEV),AUDI,Q4,2023
+WA1E2AFY7M,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,Q5 E,2021
+WA1E2AFY8M,WA,Duvall,King,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,Q5 E,2021
+WA1G2AFY7M,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,Q5 E,2021
+WA1G2BFZ5N,WA,Seattle,King,Battery Electric Vehicle (BEV),AUDI,Q4,2022
+WA1LAAGE1P,WA,Mercer Island,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2023
+WA1LAAGE3N,WA,Seattle,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2022
+WA1LAAGE4P,WA,Kirkland,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2023
+WA1M2BFZ5P,WA,Issaquah,King,Battery Electric Vehicle (BEV),AUDI,Q4,2023
+WA1VAAGE6M,WA,Kent,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2021
+WA1VAAGEXK,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),AUDI,E-TRON,2019
+WA1VABGE3M,WA,Covington,King,Battery Electric Vehicle (BEV),AUDI,E-TRON,2021
+WA1VABGE7K,WA,Tumwater,Thurston,Battery Electric Vehicle (BEV),AUDI,E-TRON,2019
+WAUEJBFW2N,WA,Skykomish,King,Battery Electric Vehicle (BEV),AUDI,E-TRON GT,2022
+WAUEJBFW9N,WA,Bainbridge Island,Kitsap,Battery Electric Vehicle (BEV),AUDI,E-TRON GT,2022
+WAUTPBFF1H,WA,Edmonds,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,A3,2017
+WAUTPBFF8J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,A3,2018
+WAUTPBFF9J,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),AUDI,A3,2018
+WB523CF08R,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),BMW,IX,2024
+WBA13AG06M,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),BMW,530E,2021
+WBA33AG0XM,WA,Vancouver,Clark,Plug-in Hybrid Electric Vehicle (PHEV),BMW,530E,2021
+WBA7J2C54J,WA,Redmond,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,740E,2018
+WBA8E1C54G,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),BMW,330E,2016
+WBAJA9C56J,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,530E,2018
+WBY1Z2C56E,WA,Seattle,King,Battery Electric Vehicle (BEV),BMW,I3,2014
+WBY1Z2C58F,WA,Sammamish,King,Battery Electric Vehicle (BEV),BMW,I3,2015
+WBY1Z4C52F,WA,Longview,Cowlitz,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2015
+WBY1Z4C53F,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2015
+WBY1Z4C54E,WA,Edmonds,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2014
+WBY1Z4C56G,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2016
+WBY1Z4C57G,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2016
+WBY1Z4C58E,WA,Poulsbo,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2014
+WBY1Z4C58G,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2016
+WBY1Z4C5XF,WA,Port Townsend,Jefferson,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2015
+WBY1Z6C31H,WA,Everett,Snohomish,Battery Electric Vehicle (BEV),BMW,I3,2017
+WBY33AW04P,WA,Manson,Chelan,Battery Electric Vehicle (BEV),BMW,I4,2023
+WBY33AW06P,WA,Kirkland,King,Battery Electric Vehicle (BEV),BMW,I4,2023
+WBY33AW0XP,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),BMW,I4,2023
+WBY43AW05P,WA,Seattle,King,Battery Electric Vehicle (BEV),BMW,I4,2023
+WBY73AW04P,WA,Bellevue,King,Battery Electric Vehicle (BEV),BMW,I4,2023
+WBY73AW08N,WA,Mercer Island,King,Battery Electric Vehicle (BEV),BMW,I4,2022
+WBY7Z2C52J,WA,Lake Forest Park,King,Battery Electric Vehicle (BEV),BMW,I3,2018
+WBY8P2C51K,WA,Seattle,King,Battery Electric Vehicle (BEV),BMW,I3,2019
+WBY8P2C58K,WA,Redmond,King,Battery Electric Vehicle (BEV),BMW,I3,2019
+WBY8P4C53K,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),BMW,I3,2019
+WDDVP9AB6E,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),MERCEDES-BENZ,B-CLASS,2014
+WMEFJ9BAXH,WA,Kirkland,King,Battery Electric Vehicle (BEV),SMART,FORTWO,2017
+WMW13DJ00P,WA,Snoqualmie,King,Battery Electric Vehicle (BEV),MINI,HARDTOP,2023
+WMWXP3C08M,WA,Redmond,King,Battery Electric Vehicle (BEV),MINI,HARDTOP,2021
+WMZ23BS05N,WA,Kenmore,King,Plug-in Hybrid Electric Vehicle (PHEV),MINI,COUNTRYMAN,2022
+WP0AC2Y13L,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),PORSCHE,TAYCAN,2020
+WP0AC2Y1XL,WA,Bellevue,King,Battery Electric Vehicle (BEV),PORSCHE,TAYCAN,2020
+WP0AD2A74G,WA,Maple Valley,King,Plug-in Hybrid Electric Vehicle (PHEV),PORSCHE,PANAMERA,2016
+WP0AE2A75J,WA,Bellevue,King,Plug-in Hybrid Electric Vehicle (PHEV),PORSCHE,PANAMERA,2018
+WP0BA2Y11N,WA,Bellevue,King,Battery Electric Vehicle (BEV),PORSCHE,TAYCAN,2022
+WVGGNPE26N,WA,Sammamish,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVGJNPE26N,WA,Renton,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVGKMPE29M,WA,Kirkland,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2021
+WVGTMPE27N,WA,Kirkland,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVGUNPE23N,WA,Redmond,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVGUNPE25M,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2021
+WVGUNPE27N,WA,Poulsbo,Kitsap,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVGUNPE2XN,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,ID.4,2022
+WVWKP7AU2G,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2016
+WVWKP7AU4G,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2016
+WVWKR7AU6K,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2019
+WVWKR7AU8K,WA,Snohomish,Snohomish,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2019
+WVWKR7AUXK,WA,Kent,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2019
+WVWPP7AU7F,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2015
+WVWPR7AU4K,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2019
+WVWPR7AU8K,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),VOLKSWAGEN,E-GOLF,2019
+YSMEG3KA1P,WA,Olympia,Thurston,Battery Electric Vehicle (BEV),POLESTAR,PS2,2023
+YV4BC0PL5G,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2016
+YV4BK0DP8L,WA,Kenmore,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC60,2020
+YV4BR00KXN,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2022
+YV4BR00L0M,WA,Sammamish,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2021
+YV4BR00L1M,WA,Bothell,Snohomish,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2021
+YV4BR0CL2K,WA,Bainbridge Island,Kitsap,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2019
+YV4BR0DL0L,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC60,2020
+YV4BR0DL9L,WA,Shoreline,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC60,2020
+YV4ED3GM4P,WA,Seattle,King,Battery Electric Vehicle (BEV),VOLVO,C40,2023
+YV4ED3UB6N,WA,Bothell,Snohomish,Battery Electric Vehicle (BEV),VOLVO,XC40,2022
+YV4ED3UR3N,WA,Vancouver,Clark,Battery Electric Vehicle (BEV),VOLVO,XC40,2022
+YV4H60CZ8N,WA,Seattle,King,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC90,2022
+YV4H60DL0N,WA,Olympia,Thurston,Plug-in Hybrid Electric Vehicle (PHEV),VOLVO,XC60,2022
